@@ -36,7 +36,7 @@ Microbe Mapper is an AI-powered model for the visual recognition of microorganis
 
 ![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/1e563b1b-a2cf-4908-942c-4f8d1b5dfb60)
 
-![image](https://github.com/smartinternz02/SI-GuidedProject-614643-1699458275/assets/121705156/394bf08b-31b1-4349-9c55-f5491d137053)
+![image](https://github.com/irfanizzath/SmartInternzMicrobeMapper/assets/121705156/e7c16454-dddc-4418-8375-37891f5fed36)
 
 ## Model Architecture
 

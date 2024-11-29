@@ -1,8 +1,8 @@
-# Microbe Mapper: Visual Recognition of Microorganisms 🦠
+# An InceptionV3 based model for Microorganism Image Classification 🦠
 
 ## Overview
 
-Microbe Mapper is an AI-powered model for the visual recognition of microorganisms. Developed by Mohamed Irfan Abdul Khader and Shaik Hamzah Shareef, this model utilizes the InceptionV3 architecture to accurately classify sample images into eight different categories of microorganisms.
+An AI-powered model for the visual recognition of microorganisms. Developed by Mohamed Irfan and Shaik Hamzah, this model utilizes the InceptionV3 architecture to accurately classify sample images into eight different categories of microorganisms.
 
 ## Categories
 
@@ -40,7 +40,7 @@ Microbe Mapper is an AI-powered model for the visual recognition of microorganis
 
 ## Model Architecture
 
-Microbe Mapper is powered by the InceptionV3 architecture, a deep learning model known for its efficiency in image recognition tasks.
+Powered by the InceptionV3 architecture, a deep learning model known for its efficiency in image recognition tasks.
 
 ## Usage
 
@@ -50,8 +50,3 @@ To classify a microorganism in a sample image, input the image into the Microbe 
 
 - Mohamed Irfan Abdul Khader
 - Shaik Hamzah Shareef
-
-## Acknowledgments
-
-We would like to express our gratitude to the  SmartInternz trainers for their crucial training  and the developers and contributors of the InceptionV3 architecture, which forms the backbone of Microbe Mapper.
-
